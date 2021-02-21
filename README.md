@@ -1,4 +1,4 @@
- VirgoScript Generator`
+# VirgoScript Generator
 The first **VirgoScript** code generator 100% in **PHP**
 
 ## What can he do?
