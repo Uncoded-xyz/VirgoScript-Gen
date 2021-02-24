@@ -15,7 +15,7 @@
 // Function    //
 /////////////////
 
-function spazio() {
+function space() {
       echo "<br><br><br>";
 }
 
